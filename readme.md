@@ -1,2 +1,2 @@
 ## Trabalhos:
-* [Trabalho 01](trabalhos\trabalho01.py)
+* [Trabalho 01](trabalhos/trabalho01.py)
